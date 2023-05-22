@@ -1,4 +1,4 @@
-# Guess-The-Number
+# Guess The Number
 This Java program is a simple number guessing game. The program generates a random number between 0 and 100, and the player needs to guess the number within 5 attempts.
 
 ## Introduction
